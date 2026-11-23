@@ -7,9 +7,9 @@
 
 ## About Me
 
-I am a results-driven Business Analyst with over six years of experience translating complex business needs into clear, actionable requirements for new products and system enhancements. My expertise spans requirements elicitation, business process analysis, workflow design, and solution validation across the Software Development Life Cycle (SDLC).
+ I am a results-driven Business Analyst with over 6 years of experience turning business needs into clear, well-documented requirements for new products and major enhancements. I've led and supported initiatives across a wide range of projects and designed end-to-end processes that hold up in the real world. I partner with cross-functional teams and stakeholders to add business value at every phase of the Software Development Life Cycle. My approach combines structured discovery, precise documentation, and evidence-based decisions, with quality validation to confirm that what gets built is what the business needs.
 
-I collaborate with stakeholders and cross-functional teams to define business objectives, identify process gaps, document functional requirements, and develop practical solutions that align with organizational goals. My approach combines structured discovery, precise documentation, data-informed analysis, and quality validation to ensure that delivered solutions address business needs and support operational efficiency.
+
 
 ## Core Business Analysis Competencies
 
