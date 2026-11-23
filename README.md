@@ -43,7 +43,7 @@ Stakeholder Engagement • Cross-Functional Collaboration • Analytical Thinkin
 
 ## Featured Business Analysis Projects
 
-*Portfolio case studies and supporting business analysis deliverables will be added here.*
+
 
 ## Connect With Me
 
